@@ -11,8 +11,8 @@ Detailed Description and Files
 1. Accounts.py file
     * Contains the Account class with methods to set the balance and interest (given with the starter code).
 2. Savings_account.py file
-    * Imports the Accounts class, creates the create_savings_account function which creates the account, calculates the interest, updates the account balance, and returns both the interest earcned and the new balance (added my code to this file).
+    * Imports the Accounts class, creates the create_savings_account function which creates the account, calculates the interest, updates the account balance, and returns both the interest earned and the new balance (added my code to this file).
 3. CD_account.py file
-    * Much like the previous file (savings_account.py) but for the CD account. It imports the Accounts class, creates the create_cd_account function which creates the account, calculates the interest, updates the account balance, and returns both the interest earcned and the new balance (added my code to this file).
+    * Much like the previous file (savings_account.py) but for the CD account. It imports the Accounts class, creates the create_cd_account function which creates the account, calculates the interest, updates the account balance, and returns both the interest earned and the new balance (added my code to this file).
 4. Customer_banking.py file
     * Imports both functions mentioned above (create_savings_account and create_cd_account), creates the main function which asks the user to enter their savings and CD account details, calls the corresponding functions to calculate the new balances and interests earned, and prints out the results (added my code to this file).
